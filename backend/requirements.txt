@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+pandas
+numpy
+slowapi
+python-jose[cryptography]
+passlib[bcrypt]
+requests
